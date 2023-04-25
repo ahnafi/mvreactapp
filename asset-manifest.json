@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mvreactapp/static/css/main.caff5ab2.css",
+    "main.js": "/mvreactapp/static/js/main.5d88a5f0.js",
+    "static/js/787.ac04ab78.chunk.js": "/mvreactapp/static/js/787.ac04ab78.chunk.js",
+    "index.html": "/mvreactapp/index.html",
+    "main.caff5ab2.css.map": "/mvreactapp/static/css/main.caff5ab2.css.map",
+    "main.5d88a5f0.js.map": "/mvreactapp/static/js/main.5d88a5f0.js.map",
+    "787.ac04ab78.chunk.js.map": "/mvreactapp/static/js/787.ac04ab78.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.caff5ab2.css",
+    "static/js/main.5d88a5f0.js"
+  ]
+}
