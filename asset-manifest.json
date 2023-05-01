@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mvreactapp/static/css/main.6009d563.css",
-    "main.js": "/mvreactapp/static/js/main.77cc018d.js",
+    "main.js": "/mvreactapp/static/js/main.e09f8e5f.js",
     "static/js/787.ac04ab78.chunk.js": "/mvreactapp/static/js/787.ac04ab78.chunk.js",
     "index.html": "/mvreactapp/index.html",
     "main.6009d563.css.map": "/mvreactapp/static/css/main.6009d563.css.map",
-    "main.77cc018d.js.map": "/mvreactapp/static/js/main.77cc018d.js.map",
+    "main.e09f8e5f.js.map": "/mvreactapp/static/js/main.e09f8e5f.js.map",
     "787.ac04ab78.chunk.js.map": "/mvreactapp/static/js/787.ac04ab78.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6009d563.css",
-    "static/js/main.77cc018d.js"
+    "static/js/main.e09f8e5f.js"
   ]
 }
